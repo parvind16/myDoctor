@@ -10,15 +10,23 @@
 	<string>MyHealth</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>20BB93FA9F5DDDBAF4A9CDCB52FA4B061A295654</key>
+		<string>https://github.com/parvind16/MyHealth.git</string>
 		<key>57340fe8-c63c-9e45-8530-5fbfe2c550e0++8671</key>
 		<string>http://50.63.174.139:8088/svn/Udood/branch/Pravind/udood</string>
+		<key>A1B5D62811070F3DF4431C38637B879591704A3A</key>
+		<string>https://github.com/parvind16/myDoctor.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>myhealth-app.git/MyHealth.xcodeproj</string>
+	<string>MyHealth.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>20BB93FA9F5DDDBAF4A9CDCB52FA4B061A295654</key>
+		<string>../..MyHealth/</string>
 		<key>57340fe8-c63c-9e45-8530-5fbfe2c550e0++8671</key>
-		<string>../../..</string>
+		<string>../../../..</string>
+		<key>A1B5D62811070F3DF4431C38637B879591704A3A</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectRepositoryRootDictionary</key>
 	<dict>
@@ -26,11 +34,11 @@
 		<string>http://50.63.174.139:8088/svn/Udood</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>http://50.63.174.139:8088/svn/Udood/branch/Pravind/udood/myhealth-app.git/MyHealth.xcodeproj</string>
+	<string>https://github.com/parvind16/myDoctor.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>57340fe8-c63c-9e45-8530-5fbfe2c550e0++8671</string>
+	<string>A1B5D62811070F3DF4431C38637B879591704A3A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -39,7 +47,23 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>57340fe8-c63c-9e45-8530-5fbfe2c550e0++8671</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Running%20projects</string>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A1B5D62811070F3DF4431C38637B879591704A3A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>myDoctor</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>20BB93FA9F5DDDBAF4A9CDCB52FA4B061A295654</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyHealth</string>
 		</dict>
 	</array>
 </dict>
